@@ -1,0 +1,148 @@
+
+GOLANG GOPHER
+	https://blog.golang.org/gopher
+	https://github.com/golang-samples/gopher-3d
+	https://github.com/golang-samples/gopher-vector
+		https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher-front.svg
+	https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher-side_path.svg
+	https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher-side_color.svg
+		
+
+
+Kerberos
+	https://commons.wikimedia.org/wiki/File:Cerb%C3%A8re.svg
+		https://upload.wikimedia.org/wikipedia/commons/4/4e/Cerb%C3%A8re.svg
+	https://commons.wikimedia.org/wiki/File:H%C3%A9raldique_meuble_Cerb%C3%A8re.svg
+		https://upload.wikimedia.org/wikipedia/commons/a/ac/H%C3%A9raldique_meuble_Cerb%C3%A8re.svg
+
+
+https://commons.wikimedia.org/wiki/File:Cerb%C3%A8re.svg
+
+
+
+
+FLAG WAVING
+	https://commons.wikimedia.org/wiki/File:Red_waving_flag.svg
+		https://upload.wikimedia.org/wikipedia/commons/f/fa/Red_waving_flag.svg
+
+	https://search.creativecommons.org/photos/4864b81a-50b1-443a-bd7b-d184f70502e6
+
+
+
+
+
+Tech stacks
+	https://en.wikipedia.org/wiki/Cloud_Foundry
+		https://en.wikipedia.org/wiki/Cloud_Foundry#/media/File:CloudFoundryCorp_vertical.svg
+	https://commons.wikimedia.org/wiki/File:Kubernetes_logo.svg
+		https://upload.wikimedia.org/wikipedia/commons/6/67/Kubernetes_logo.svg
+	https://commons.wikimedia.org/wiki/File:Prometheus_software_logo.svg
+		https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg
+	https://commons.wikimedia.org/wiki/File:Apache_kafka.svg
+		https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg
+	https://commons.wikimedia.org/wiki/File:Cib-grafana_(CoreUI_Icons_v1.0.0).svg
+		https://grafana.com/static/assets/internal/grafana_logo-web.svg
+	https://commons.wikimedia.org/wiki/File:Docker_(container_engine)_logo.svg
+		https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg
+	https://commons.wikimedia.org/wiki/File:OpenID_logo.svg
+		https://upload.wikimedia.org/wikipedia/commons/c/c8/OpenID_logo.svg
+	https://commons.wikimedia.org/wiki/File:Ubuntu_logo.svg
+		https://design.ubuntu.com/downloads/
+		https://upload.wikimedia.org/wikipedia/commons/9/9d/Ubuntu_logo.svg
+	Cockroach
+		https://operatorhub.io/operator/cockroachdb		data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMS44MiAzMiIgd2lkdGg9IjI0ODYiIGhlaWdodD0iMjUwMCI+PHRpdGxlPkNMPC90aXRsZT48cGF0aCBkPSJNMTkuNDIgOS4xN2ExNS4zOSAxNS4zOSAwIDAgMS0zLjUxLjQgMTUuNDYgMTUuNDYgMCAwIDEtMy41MS0uNCAxNS42MyAxNS42MyAwIDAgMSAzLjUxLTMuOTEgMTUuNzEgMTUuNzEgMCAwIDEgMy41MSAzLjkxek0zMCAuNTdBMTcuMjIgMTcuMjIgMCAwIDAgMjUuNTkgMGExNy40IDE3LjQgMCAwIDAtOS42OCAyLjkzQTE3LjM4IDE3LjM4IDAgMCAwIDYuMjMgMGExNy4yMiAxNy4yMiAwIDAgMC00LjQ0LjU3QTE2LjIyIDE2LjIyIDAgMCAwIDAgMS4xM2EuMDcuMDcgMCAwIDAgMCAuMDkgMTcuMzIgMTcuMzIgMCAwIDAgLjgzIDEuNTcuMDcuMDcgMCAwIDAgLjA4IDAgMTYuMzkgMTYuMzkgMCAwIDEgMS44MS0uNTQgMTUuNjUgMTUuNjUgMCAwIDEgMTEuNTkgMS44OCAxNy41MiAxNy41MiAwIDAgMC0zLjc4IDQuNDhjLS4yLjMyLS4zNy42NS0uNTUgMXMtLjIyLjQ1LS4zMy42OS0uMzEuNzItLjQ0IDEuMDhhMTcuNDYgMTcuNDYgMCAwIDAgNC4yOSAxOC43Yy4yNi4yNS41My40OS44MS43M3MuNDQuMzcuNjcuNTQuNTkuNDQuODkuNjRhLjA3LjA3IDAgMCAwIC4wOCAwYy4zLS4yMS42LS40Mi44OS0uNjRzLjQ1LS4zNS42Ny0uNTQuNTUtLjQ4LjgxLS43M2ExNy40NSAxNy40NSAwIDAgMCA1LjM4LTEyLjYxIDE3LjM5IDE3LjM5IDAgMCAwLTEuMDktNi4wOWMtLjE0LS4zNy0uMjktLjczLS40NS0xLjA5cy0uMjItLjQ3LS4zMy0uNjktLjM1LS42Ni0uNTUtMWExNy42MSAxNy42MSAwIDAgMC0zLjc4LTQuNDggMTUuNjUgMTUuNjUgMCAwIDEgMTEuNi0xLjg0IDE2LjEzIDE2LjEzIDAgMCAxIDEuODEuNTQuMDcuMDcgMCAwIDAgLjA4IDBxLjQ0LS43Ni44Mi0xLjU2YS4wNy4wNyAwIDAgMCAwLS4wOUExNi44OSAxNi44OSAwIDAgMCAzMCAuNTd6IiBmaWxsPSIjMTUxZjM0Ii8+PHBhdGggZD0iTTIxLjgyIDE3LjQ3YTE1LjUxIDE1LjUxIDAgMCAxLTQuMjUgMTAuNjkgMTUuNjYgMTUuNjYgMCAwIDEtLjcyLTQuNjggMTUuNSAxNS41IDAgMCAxIDQuMjUtMTAuNjkgMTUuNjIgMTUuNjIgMCAwIDEgLjcyIDQuNjgiIGZpbGw9IiMzNDg1NDAiLz48cGF0aCBkPSJNMTUgMjMuNDhhMTUuNTUgMTUuNTUgMCAwIDEtLjcyIDQuNjggMTUuNTQgMTUuNTQgMCAwIDEtMy41My0xNS4zN0ExNS41IDE1LjUgMCAwIDEgMTUgMjMuNDgiIGZpbGw9IiM3ZGJjNDIiLz48L3N2Zz4=
+	https://commons.wikimedia.org/wiki/File:Microsoft_logo.svg  (adfs )
+		https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg
+	https://en.wikipedia.org/wiki/Java_(programming_language)
+		
+		https://en.wikipedia.org/wiki/File:Duke_(Java_mascot)_waving.svg
+			https://upload.wikimedia.org/wikipedia/commons/5/5d/Duke_%28Java_mascot%29_waving.svg
+	https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg
+	https://commons.wikimedia.org/wiki/File:C_Sharp_logo.svg
+		https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg
+	https://commons.wikimedia.org/wiki/File:Node.js_logo.svg
+	https://commons.wikimedia.org/wiki/File:AWS_Simple_Icons_Storage_Amazon_S3.svg
+		https://upload.wikimedia.org/wikipedia/commons/3/32/AWS_Simple_Icons_Storage_Amazon_S3.svg
+	https://upload.wikimedia.org/wikipedia/commons/3/35/JWT-Logo.svg
+	
+	
+	
+	GENERIC
+		DB  https://www.svgrepo.com/svg/30250/database
+			
+
+
+https://camo.githubusercontent.com/f04a7348c3f516c528405b48eccc96d3ad1abdeb/68747470733a2f2f7261772e6769746875622e636f6d2f676f6c616e672d73616d706c65732f676f706865722d766563746f722f6d61737465722f676f706865722d736964655f636f6c6f722e706e67
+
+
+SHIELD
+	https://search.creativecommons.org/photos/cf0b3a5a-0372-49fd-a4f8-c08f90623cdd
+	
+	https://commons.wikimedia.org/w/index.php?curid=64661575
+		https://upload.wikimedia.org/wikipedia/commons/0/08/Shield_by_Franc_from_the_Noun_Project.svg
+	
+	https://commons.wikimedia.org/wiki/File:Kite_shield.svg
+		https://upload.wikimedia.org/wikipedia/commons/b/ba/Kite_shield.svg
+
+	https://www.svgrepo.com/svg/39572/shield
+		https://www.svgrepo.com/show/39572/shield.svg
+	https://www.svgrepo.com/svg/68098/shield
+	https://www.svgrepo.com/vectors/shield/3
+	
+	https://commons.wikimedia.org/wiki/File:Oauth_logo.svg
+		https://upload.wikimedia.org/wikipedia/commons/d/d2/Oauth_logo.svg
+		https://cdn.auth0.com/website/assets/pages/homepage/img/std_cert/oauth2-360e300bd3.svg
+		
+
+SWORD
+	https://upload.wikimedia.org/wikipedia/commons/1/19/Sword_01.svg
+
+
+KNIGHT
+	https://search.creativecommons.org/photos/d7901ca7-169b-4539-b20d-11f9b221aeda
+	
+	https://search.creativecommons.org/photos/0ec27a8c-e338-4bfa-bc94-918e49a3bbdc
+		https://upload.wikimedia.org/wikipedia/commons/c/c3/Meuble_h%C3%A9raldique_soldat_en_armure.svg
+		
+
+BOOT
+	https://www.svgrepo.com/svg/118144/boot
+	
+
+Castle:
+	https://www.svgrepo.com/show/224531/castle-fortress.svg
+
+	HILLS
+		https://www.svgrepo.com/show/31040/hills.svg
+	Meandering Road
+		https://www.svgrepo.com/svg/104503/meandering-road-with-trees-at-sides
+		
+		
+HELMET
+	https://www.svgrepo.com/svg/66051/helmet
+	https://www.svgrepo.com/svg/267144/helmet-roman
+	https://www.svgrepo.com/svg/56567/roman-helmet
+	https://www.svgrepo.com/svg/276848/helmet-armor
+	https://www.svgrepo.com/svg/224539/viking-helmet
+	https://www.svgrepo.com/svg/276052/helmet-knight
+	
+	
+
+SVG drawing:  
+	https://editor.method.ac/
+		Based on: https://github.com/SVG-Edit/svgedit
+	https://mavo.io/demos/svgpath/  (Had other interesting demos, but didn't work well)
+	https://www.drawsvg.org/
+	https://inkscape.org/
+		https://snapcraft.io/store
+	https://boxy-svg.com/app  # Very good, but premium.
+	https://www.w3schools.com/graphics/svg_intro.asp
+
+CLEANUP
+	 [a-z-]+="null"
+	 [a-z-]+=""
+	<[a-zA-Z]+></[a-zA-Z]+>
+
+Other neat
+	https://search.creativecommons.org/photos/a7215978-44ef-4df2-890f-e2c8156be538
+	
